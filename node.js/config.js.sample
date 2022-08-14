@@ -1,0 +1,7 @@
+module.exports.Config = {
+	"sid": 'Axxxxxxxx',
+	"authToken": 'abxxxxxxxxxxxxxxxx',
+	"from": '+18885554444',
+	"baseUrl": 'http://myserver.example.com',
+	"mp3Url": 'http://myserver.example.com/mp3s/callme.mp3'
+};

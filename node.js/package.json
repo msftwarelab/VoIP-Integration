@@ -1,0 +1,10 @@
+{
+	"name": "gdg-survivor",
+	"description": "Response to the Utah GDG Survivor challenge. Calls a phone and plays an MP3 in response to an SMS text.",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "3.x",
+		"twilio": "0.7.x"
+	}
+}
